@@ -10,6 +10,10 @@ body {
     font-weight: 300;
     font-size: 13px
 }
+.card {
+    height: 305px!important;
+    box-shadow: 2px 2px #a5aec0;
+}
 
 .icon {
     width: 50px;
@@ -60,13 +64,11 @@ body {
 }
 
 .badge span {
-    background-color: #fffbec;
-    width: 60px;
-    height: 25px;
-    padding-bottom: 3px;
-    border-radius: 5px;
+    background-color: #e3fae8;
+    padding: 10px 20px;
+    border-radius: 20px;
     display: flex;
-    color: #fed85d;
+    color: #7aae80;
     justify-content: center;
     align-items: center
 }
@@ -92,23 +94,35 @@ body {
     color: #569dc6;
     border: none;
     border-radius: 20px;
-    padding: 10px 20px;
+    padding: 5px 15px;
 }
 
 .badge-bottom button:hover {
     color: black;
 }
 
-.badge3 button {
-    background-color: #e6e8fd;
-    border-radius: 50%;
+.badge-bottom span {
+    background-color: #e8f4ff;
+    color: #569dc6;
     border: none;
+    border-radius: 20px;
+    padding: 5px 15px;
+}
+
+.badge3 button {
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid black;
     width: 40px;
     height: 40px;
     display: flex;
-    color: #4358b2;
     justify-content: center;
-    align-items: center
+    align-items: center;
+    overflow: hidden;
+}
+.badge3 img {
+    width: 40px;
+    height: 40px;
 }
 
 .progress {
