@@ -1,6 +1,7 @@
 body {
-    background-color: #f9f8fd!important;
+    background-color: #f9f8fd !important;
 }
+
 .card {
     border: none;
     border-radius: 10px;
@@ -8,10 +9,11 @@ body {
 
 .c-details span {
     font-weight: 300;
-    font-size: 13px
+    font-size: 13px;
 }
+
 .cards1 {
-    height: 305px!important;
+    height: 305px !important;
     box-shadow: 2px 2px #a5aec0;
 }
 
@@ -26,18 +28,18 @@ body {
     font-size: 39px;
 }
 
-.icon img{
+.icon img {
     width: 50px;
     height: 50px;
     border-radius: 50%;
 }
 
-
 .avatar-wrapper {
     position: relative;
     width: 50px;
     height: 50px;
-}  
+}
+
 .avatar {
     vertical-align: middle;
     width: 100%;
@@ -53,8 +55,7 @@ body {
     background: #dcfaec;
     width: 15px;
     height: 15px;
-    
-    
+
     display: grid;
     text-align: center;
     line-height: 15px;
@@ -70,7 +71,7 @@ body {
     display: flex;
     color: #7aae80;
     justify-content: center;
-    align-items: center
+    align-items: center;
 }
 
 .badge button {
@@ -82,10 +83,10 @@ body {
     display: flex;
     color: #4358b2;
     justify-content: center;
-    align-items: center
+    align-items: center;
 }
 
-.badge button:hover{
+.badge button:hover {
     color: black;
 }
 
@@ -120,27 +121,41 @@ body {
     align-items: center;
     overflow: hidden;
 }
+
 .badge3 img {
     width: 40px;
     height: 40px;
 }
 
+.form-fram {
+    background-color: white;
+}
+
+.forms-btn button {
+    border: black !important;
+    background-color: #e3ebfe;
+    color: #183389;
+}
+
+.dashed-line {
+    border: 1px dashed rgb(126, 117, 117);
+}
 
 .post {
     background-color: white;
 }
 
-.cont p{
+.cont p {
     font-size: 14px;
     text-align: justify;
     padding-right: 30px;
 }
 
-.post-img img{
+.post-img img {
     width: 100%;
 }
 
-.status span{
+.status span {
     font-size: 12px;
     padding: 5px 15px;
     background-color: #f1f2f4;
@@ -148,11 +163,11 @@ body {
     border-radius: 20px;
 }
 
-.status p{
+.status p {
     font-size: 12px;
 }
 
-.box1{
+.box1 {
     background-color: #f8f9fe;
     width: 100%;
     padding: 10px;
@@ -168,15 +183,13 @@ body {
     display: flex;
     color: #000000;
     justify-content: center;
-    align-items: center
+    align-items: center;
 }
-.com1 p{
+
+.com1 p {
     text-align: justify;
     font-size: 12px;
 }
-
-
-
 
 .notif {
     background-color: #ffffff;
