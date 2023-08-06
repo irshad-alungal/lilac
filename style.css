@@ -132,13 +132,51 @@ body {
 }
 
 .forms-btn button {
-    border: black !important;
     background-color: #e3ebfe;
     color: #183389;
 }
+.dlt {
+    background-color: #ffeced!important;
+    color: #db4e51!important;
+}
 
+.apply-bg {
+    border: 1px solid rgb(69, 67, 67);
+    padding-top: 38px;
+    padding-bottom: 38px;
+    background-color: #f9f8fd;
+}
+.apply-bg1 {
+    border: 1px solid rgb(69, 67, 67);
+    padding-top: 10px;
+    background-color: #f9f8fd;
+}
 .dashed-line {
     border: 1px dashed rgb(126, 117, 117);
+}
+
+.add button{
+    background-color: #e3ebff;
+    color: #2b3c69;
+    font-size: 12px;
+    font-weight: 800;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.bt-1{
+    background-color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.bt-2{
+    background-color: #0c269a;
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 5px 10px;
 }
 
 .post {
