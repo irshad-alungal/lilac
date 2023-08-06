@@ -10,7 +10,7 @@ body {
     font-weight: 300;
     font-size: 13px
 }
-.card {
+.cards1 {
     height: 305px!important;
     box-shadow: 2px 2px #a5aec0;
 }
@@ -126,4 +126,66 @@ body {
 }
 
 
+.post {
+    background-color: white;
+}
 
+.cont p{
+    font-size: 14px;
+    text-align: justify;
+    padding-right: 30px;
+}
+
+.post-img img{
+    width: 100%;
+}
+
+.status span{
+    font-size: 12px;
+    padding: 5px 15px;
+    background-color: #f1f2f4;
+    color: #989da0;
+    border-radius: 20px;
+}
+
+.status p{
+    font-size: 12px;
+}
+
+.box1{
+    background-color: #f8f9fe;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.box2 {
+    margin-left: 15px;
+}
+
+.badgex span {
+    display: flex;
+    color: #000000;
+    justify-content: center;
+    align-items: center
+}
+.com1 p{
+    text-align: justify;
+    font-size: 12px;
+}
+
+
+
+
+.notif {
+    background-color: #ffffff;
+}
+
+.no-1 {
+    background-color: #e4eaff;
+}
+
+.notif-name {
+    font-weight: 200;
+}
